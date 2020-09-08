@@ -9,7 +9,7 @@ Skills:  HTML / CSS / Javascript / Node.js / React.js / IoT - ( Arduino , Raspbe
 - 🔭 I’m currently working on a portfolio Website 
 - 🌱 I’m currently learning MongoDB and Data Structures / Algorithms 
 - 👯 I’m looking to collaborate on Web-based or IoT projects  
-- 🤔 I’m looking for help with Landing an Internship 
+- 🤔 I’m looking for help with in Landing an Internship 
 - 💬 Ask me about Anime / Arduino ( :p I am insanely passionate for both ) 
 - ⚡ Fun fact: Understanding r/Programming memes doesn't make you a developer. 
 

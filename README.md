@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, My name is Khateeb Anwer
+#### I am a fullstack developer and an IoT Enthusiast
+![I am a fullstack developer and an IoT Enthusiast](https://media.giphy.com/media/l41lMgnZc7iw0tAXe/giphy.gif)
 
-<!--
-**Khateebxtreme/Khateebxtreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm the Co-Founder and CEO of <strong>IOTCrypt</strong> . I do like tinkering with development boards and making them a part of the Internet. I am also an avid reader so do contact me for reading recommendations.
 
-Here are some ideas to get you started:
+Skills:  HTML / CSS / Javascript / Node.js / React.js / IoT - ( Arduino , Raspberry Pi , Node MCU ) / SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a portfolio Website 
+- 🌱 I’m currently learning MongoDB and Data Structures / Algorithms 
+- 👯 I’m looking to collaborate on Web-based or IoT projects  
+- 🤔 I’m looking for help with Landing an Internship 
+- 💬 Ask me about Anime / Arduino ( :p I am insanely passionate for both ) 
+- ⚡ Fun fact: Understanding r/Programming memes doesn't make you a developer. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Khateebxtreme)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/khateebanwer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/khateebxtreme)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khateebxtreme&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/Khateebxtreme)  

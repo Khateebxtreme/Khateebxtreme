@@ -4,10 +4,10 @@
 
  I'm the Co-Founder and CEO of <strong>IOTCrypt</strong> . I do like tinkering with development boards and making them a part of the Internet. I am also an avid reader so do contact me for reading recommendations.
 
-Skills:  HTML / CSS / Javascript / Node.js / React.js / IoT - ( Arduino , Raspberry Pi , Node MCU ) / SQL
+Skills:  HTML / CSS / Bootstrap 4 / Javascript / Node.js / React.js / IoT - ( Arduino , Raspberry Pi , Node MCU ) / SQL
 
 - 🔭 I’m currently working on a portfolio Website 
-- 🌱 I’m currently learning MongoDB and Data Structures / Algorithms 
+- 🌱 I’m currently learning MongoDB , Tailwind and Data Structures / Algorithms 
 - 👯 I’m looking to collaborate on Web-based or IoT projects  
 - 🤔 I’m looking for help with in Landing an Internship 
 - 💬 Ask me about Anime / Arduino ( :p I am insanely passionate for both ) 

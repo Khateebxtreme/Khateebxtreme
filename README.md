@@ -22,9 +22,9 @@ Skills:  HTML / CSS / Bootstrap 4 / GIT / Javascript / Node.js / React.js / IoT 
  
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khateebxtreme&show_icons=true&locale=en&layout=compact" alt="Khateebxtreme" /></p> <br><br><br>
-<div>
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khateebxtreme&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Khateebxtreme) 
  
-</div>

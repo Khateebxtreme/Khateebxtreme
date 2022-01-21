@@ -2,7 +2,7 @@
 #### I am a fullstack developer and an IoT Enthusiast
 ![I am a fullstack developer and an IoT Enthusiast](https://media.giphy.com/media/l41lMgnZc7iw0tAXe/giphy.gif)
 
- I'm the Co-Founder and CEO of <strong>IOTCrypt</strong> . I do like tinkering with development boards and making them a part of the Internet. I am also an avid reader so do contact me for reading recommendations.
+I do like tinkering with development boards and making them a part of the Internet. I am also an avid reader so do contact me for reading recommendations.
 
 Skills:  HTML / CSS / Bootstrap 4 / GIT / Javascript / Node.js / React.js / IoT - ( Arduino , Raspberry Pi , Node MCU ) / SQL
 

@@ -8,7 +8,6 @@ Skills:  HTML / CSS / Bootstrap 4 / GIT / Javascript / Node.js / React.js / IoT 
 
 - 🔭 I’m currently working on a MERN projects.
 - 🌱 I’m currently learning Data Structures / Algorithms and MERN stack.
-- 👯 I’m looking to collaborate on Web-based or IoT projects  
 - 🤔 I’m looking for help in Landing a job
 - ⚡ Fun fact: Understanding r/Programming memes doesn't make you a developer. 
 

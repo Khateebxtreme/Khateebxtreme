@@ -11,7 +11,6 @@ I am a versatile full-stack developer with a passion for crafting robust and inn
 
 - 🔭 I’m currently working on a React + SpringBoot projects.
 - 🌱 I’m currently learning Data Structures / Algorithms along with React and SpringBoot.
-- 🤔 I’m looking for help in Landing a job
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khateebxtreme&layout=compact)](https://github.com/Khateebxtreme/github-readme-stats)
 
